@@ -7,7 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="csec_app"
+        android:label="CSEC"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
