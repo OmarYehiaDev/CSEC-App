@@ -8,7 +8,7 @@ class MySplashScreen extends StatelessWidget {
     return SafeArea(
       child: SplashScreen(
         photoSize: 200,
-        backgroundColor: Color.fromRGBO(117, 182, 196, 100),
+        backgroundColor: Color.fromRGBO(117, 182, 196, 1.0),
         seconds: 10,
         navigateAfterSeconds: MyHomePage(),
         image: Image.asset("assets/images/logo.png"),
